@@ -1,2 +1,2 @@
-# DataStructure
-数据结构学习笔记
+# Data Structures
+Notes and implementations on data structures
